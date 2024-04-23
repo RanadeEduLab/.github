@@ -1,4 +1,4 @@
-Github repository for Professor Ranade's CS Education lab at UC Berkeley.
+💖 Github repository for Professor Ranade's CS Education lab at UC Berkeley. 💖
 
 Contributors
 * Manooshree Patel '20, '28
